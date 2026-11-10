@@ -1,0 +1,23 @@
+# Visual Studio local settings and caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages (restored from packages.config)
+/packages/
+
+# JetBrains Rider local settings
+.idea/
+*.sln.iml
+_ReSharper*/
+*.DotSettings.user
+
+# Windows Explorer metadata
+Thumbs.db
+Desktop.ini
